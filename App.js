@@ -22,7 +22,7 @@ function App() {
         </a>
       </header> */}
        <ProfilePage/> 
-      <PhotosPage/>
+      
       <MembersPage/>
     </div>
   );
